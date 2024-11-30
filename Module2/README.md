@@ -1,17 +1,17 @@
-# **Module 2: Statistical Inference for Data Science **
-## **Aim**
+# Module 2: Statistical Inference for Data Science
+## Aim
 Recall or become familiar with typical statistical concepts for describing and analysisng data.
 
-## **Content**
+## Content
 ### Day 1
 * Descriptive statistics
 * Probability density functions
-## Day 2
+### Day 2
 * Parameter estimation
 * Regression
-## Day 3
+### Day 3
 * Hypothesis testing
-## Day 4
+### Day 4
 * Statistics summary
 * Presentation hypothesis tests by groups
 
