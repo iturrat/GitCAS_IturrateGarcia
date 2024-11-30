@@ -1,25 +1,24 @@
-# **Module 3: Data Analysis and Machine Learning **
-## **Aim**
+# Module 3: Data Analysis and Machine Learning
+## Aim
 Learn about standard machine learning techniques and how to apply them.
 
-## **Content**
+## Content
 ### Day 1
 * Introduction to machine learning
 * Supervised machine learning
- - Linear models (linear regression, logistic regression)
- - Decision tree
- - Random forest
- - Boosted decision trees
-## Day 2
+  - Linear models (linear regression, logistic regression)
+  - Decision tree
+  - Random forest
+  - Boosted decision trees
+### Day 2
 * Unsupervised machine learning
- - Data visualization and low-dimensional embeddings
- - Principal Component Analysis (PCA)
-## Day 3
+  - Data visualization and low-dimensional embeddings
+  - Principal Component Analysis (PCA)
+### Day 3
 * Unsupervised machine learning
- - Clustering - K-Means
- - Hierarchical clustering - Dendograms
- - Soft clustering - Gaussian mixtures
-
+  - Clustering - K-Means
+  - Hierarchical clustering - Dendograms
+  - Soft clustering - Gaussian mixtures
 ## Day 4
 * Introduction to neural networks
 * Regression with neural networks
