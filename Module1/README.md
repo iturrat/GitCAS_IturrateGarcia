@@ -1,4 +1,4 @@
-# **Module 1: Data Acquisition and Management **
+# Module 1: Data Acquisition and Management
 ## **Aim**
 Learn to understand different data sources and types and how to design data management models and plans.
 
@@ -6,10 +6,10 @@ Learn to understand different data sources and types and how to design data mana
 ### Day 1
 * Data science project planning
 * Data management with Python and Pandas
-## Day 2
+### Day 2
 * MySQL and Databases
 * Data visualization
-## Day 3
+### Day 3
 * Webscraping
 * Datamanagement when using APIs
 * Project clarifications
